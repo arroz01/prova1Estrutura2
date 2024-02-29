@@ -1,0 +1,12 @@
+Ordenando vetor ordenado...
+Número de comparações: 1783293664
+Número de trocas: 0
+Tempo de execução (ms): 71556
+Ordenando vetor invertido... 
+Número de comparações: 1783293664
+Número de trocas: 500000
+Tempo de execução (ms): 215478
+Ordenando vetor aleatório...
+Número de comparações: 1783293664
+Número de trocas: 999979
+Tempo de execução (ms): 170085

@@ -1,0 +1,14 @@
+Vetor Ordenado:
+Tempo de execução (ms): 65
+Comparações: 10066432
+Trocas: 9884992      
+
+Vetor Invertido:
+Tempo de execução (ms): 91
+Comparações: 9884992
+Trocas: 9884992
+
+Vetor Aleatório:
+Tempo de execução (ms): 129
+Comparações: 18674675
+Trocas: 9884992

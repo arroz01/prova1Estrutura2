@@ -1,0 +1,5 @@
+Vetor Ordenado - Tempo de execução: 20ms
+Vetor Invertido - Tempo de execução: 49ms
+Vetor Aleatório - Tempo de execução: 1ms
+
+com 12.999
